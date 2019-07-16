@@ -1,0 +1,1 @@
+# gateb-bjb-hcms-schema
